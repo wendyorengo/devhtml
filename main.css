@@ -62,6 +62,7 @@ h1{
     float: left;
     margin-right:148px;
     margin-bottom: 25px;
+    
      
 }
 li{
@@ -85,6 +86,9 @@ li{
 }
 th{
     color: #2E4351;
+}
+td{
+    color:gray;
 }
 table{
     background-color: white;
