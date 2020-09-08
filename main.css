@@ -2,13 +2,13 @@ body{
     background-color: #d5dae0;
 }
 .intro{
-    background-color: #304863;
+    background-color: #3A5267;
     height: 350px;
     text-transform: uppercase;
 }
 h3{
     text-align:center;
-    background-color:#242e3b ;
+    background-color:#2E4351 ;
     color: white;
     padding: 20px;
 }    
@@ -31,7 +31,7 @@ h1{
     margin-top:0px;
 }
 .about{
-    background-color: yellow;
+    background-color: #F7CF3A;
 }
 .image{
     float:left;
@@ -107,17 +107,20 @@ th, td {
   }
   
 footer{
-    background-color:#304863;
+    background-color:#2E4351;
     height: 200px;
     margin-top: 25px;;
 }
-footer p{
+footer p,h2{
     text-align: initial;
     margin-left: 100px;
     color: white;
 }
 #foot{
     color: yellow;
+}
+h2{
+    padding-top:20px;
 }
 
 
