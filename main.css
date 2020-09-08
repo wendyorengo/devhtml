@@ -3,7 +3,7 @@ body{
 }
 .intro{
     background-color: #3A5267;
-    height: 350px;
+    height: 280px;
     text-transform: uppercase;
 }
 h3{
@@ -17,19 +17,19 @@ h1{
     text-align: center;
     color: white;
     padding: 20px;
-    margin-top:0px;
+    margin-bottom:0px;
     
 }
 .p1{
     text-align: center;
     color: yellow;
-    letter-spacing: .4rem;
-    margin-top:0; 
+    letter-spacing: .5rem;
+    margin-top:-25px;
+   
+    
 }
 
-.p1{
-    margin-top:0px;
-}
+
 .about{
     background-color: #F7CF3A;
 }
@@ -109,7 +109,7 @@ table th td{
 }
 
 th, td {
-    padding: 20px;
+    padding: 18px;
     text-align:center ;
     border-left:1px solid #ccc; 
     border-right: 1px solid #ccc;
