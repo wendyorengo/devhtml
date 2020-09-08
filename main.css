@@ -1,0 +1,124 @@
+body{
+    background-color: #d5dae0;
+}
+.intro{
+    background-color: #304863;
+    height: 350px;
+    text-transform: uppercase;
+}
+h3{
+    text-align:center;
+    background-color:#242e3b ;
+    color: white;
+    padding: 20px;
+}    
+
+h1{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-top:0px;
+    
+}
+.p1{
+    text-align: center;
+    color: yellow;
+    letter-spacing: .4rem;
+    margin-top:0; 
+}
+
+.p1{
+    margin-top:0px;
+}
+.about{
+    background-color: yellow;
+}
+.image{
+    float:left;
+    padding: 20px;
+    height: 300px;
+    padding-top: 5px;
+    
+}
+.myself{
+    color: grey;
+    letter-spacing: .1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.maindiv{
+    width:1000px;
+    height: 557px;
+    margin-left: 140px;
+    background-color: white;
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+.hobby{
+    background-color:white;
+    width:33.3%;
+    height: 400px;
+    margin-left: 135px;
+    float: left;
+    margin-right:148px;
+    margin-bottom: 25px;
+     
+}
+li{
+    color:grey;
+}
+.goals{
+    background-color: white;
+    width: 33.3%;
+    height: 400px;
+    float: left;
+    padding-left: 0px;
+    margin-bottom: 25px;
+
+}
+
+.about{
+    margin-top:0px;
+}
+.thead{
+    background-color: yellow;
+}
+table{
+    background-color: white;
+    height: 300px;
+    width:1000px;
+    margin-left:135px;
+    border-collapse: collapse;
+    
+}
+tr{
+    border-bottom:1px solid whitesmoke;
+}
+table th td{
+    border-bottom:1px solid gray; 
+    border: 1px solid #ddd;
+    
+
+}
+
+th, td {
+    padding: 25px;
+    text-align:center ;
+  }
+  
+footer{
+    background-color:#304863;
+    height: 200px;
+    margin-top: 25px;;
+}
+footer p{
+    text-align: initial;
+    margin-left: 100px;
+    color: white;
+}
+#foot{
+    color: yellow;
+}
+
+
+    
