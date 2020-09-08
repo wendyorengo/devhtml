@@ -57,7 +57,7 @@ h1{
 .hobby{
     background-color:white;
     width:33.3%;
-    height: 400px;
+    height: 350px;
     margin-left: 135px;
     float: left;
     margin-right:148px;
@@ -70,7 +70,7 @@ li{
 .goals{
     background-color: white;
     width: 33.3%;
-    height: 400px;
+    height: 350px;
     float: left;
     padding-left: 0px;
     margin-bottom: 25px;
@@ -83,6 +83,9 @@ li{
 .thead{
     background-color: yellow;
 }
+th{
+    color: #2E4351;
+}
 table{
     background-color: white;
     height: 300px;
@@ -92,18 +95,20 @@ table{
     
 }
 tr{
-    border-bottom:1px solid whitesmoke;
+    border-bottom:1px solid #ccc;
 }
 table th td{
-    border-bottom:1px solid gray; 
-    border: 1px solid #ddd;
+    border-bottom:1px solid #ccc; 
+    border: 3px solid #ddd;
     
 
 }
 
 th, td {
-    padding: 25px;
+    padding: 20px;
     text-align:center ;
+    border-left:1px solid #ccc; 
+    border-right: 1px solid #ccc;
   }
   
 footer{
@@ -122,6 +127,10 @@ footer p,h2{
 h2{
     padding-top:20px;
 }
-
+@media only screen and (max-width: 600px) {
+    body{
+        width:100%;
+    }
+}
 
     
